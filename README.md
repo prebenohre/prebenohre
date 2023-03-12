@@ -60,9 +60,7 @@
     </svg>
   </a>
   </div>
-</div>
-
-<style>
+  <style>
   $color-primary: #81c2de;
 $color-primary-light: #b4f5ff;
 $color-primary-dark: #4f92ac;
@@ -164,6 +162,9 @@ $color-black: #191308;
 }
   
 </style>
+</div>
+
+
 
 <!--
 **prebenohre/prebenohre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
