@@ -8,8 +8,6 @@ When I'm not immersed in code, you'll find me crafting some soothing Lofi Hip-Ho
 
 Feel free to reach out if you'd like to collaborate or just chat tech – I'm always up for a good coding conversation! 🚀
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif" width="100"/>
   <div id="badges">
   <a "https://www.linkedin.com/in/prebenohre/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
