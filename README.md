@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to collaborate or just chat tech – I'm al
     <img height="33rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://www.preben.codes">
-    <img height="33rem" src="https://img.shields.io/badge/preben.codes-black?style=for-the-badge&logo=&logoColor=white" alt="Gmail Badge"/>
+    <img height="33rem" src="https://img.shields.io/badge/preben.codes-202020?style=for-the-badge&logo=&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
