@@ -1,6 +1,6 @@
 
-# Hey there! 👋
-I'm Preben, currently pursuing a degree in software engineering at Kristiania University College in Oslo. 🤓
+# Hey, I'm Preben! 👋
+I'm, currently pursuing a degree in software engineering at Kristiania University College in Oslo. 🤓
 <br>
 My journey in tech has been a thrilling ride, exploring web development with HTML, CSS, JavaScript, React, and Next.js, diving into the world of database management with MySQL, and embracing object-oriented programming in Java and C#. I've found true passion in these subjects, and I'm eagerly looking forward to becoming a ✨full-stack developer✨ once I complete my studies!
 
