@@ -1,4 +1,4 @@
-# Hey, I'm Preben! 👋
+<h1 id="heading" align="center"> Hey, I'm Preben! 👋</h1>
 I'm, currently pursuing a bachelors degree in software engineering at Kristiania University College in Oslo. 👨‍💻
 <br>
 <br>
