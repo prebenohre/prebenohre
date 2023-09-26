@@ -3,9 +3,9 @@
 I'm, currently pursuing a degree in software engineering at Kristiania University College in Oslo. 🤓
 <br>
 <br>
-My journey in tech has been a thrilling ride, exploring web development with HTML, CSS, JavaScript, React, node.js and Next.js, diving into the world of database management with MySQL, and embracing object-oriented programming in Java and C#. I've found true passion in these subjects, and I'm eagerly looking forward to becoming a ✨full-stack developer✨ once I complete my studies!
+My journey in tech has been a thrilling ride, exploring web development with HTML, CSS, JavaScript, React, Node.js and Next.js, diving into the world of database management with MySQL and MongoDB, and embracing object-oriented programming in Java and C#. I've found passion in these subjects, and I'm eagerly looking forward to becoming a true ✨full-stack developer✨ once I complete my studies!
 
-When I'm not immersed in code, you'll find me crafting some soothing Lofi Hip-Hop beats, experimenting with homemade wine production, or indulging in a bit of gaming. 🎷🍷🎮
+When I'm not immersed in code, you'll find me crafting some soothing Lofi Hip-Hop beats, experimenting with homemade wine production, or indulging in a bit of gaming. 🎸🍷🎮
 
 Feel free to reach out if you'd like to collaborate or just chat tech – I'm always up for a good coding conversation! 🚀
 <br>
