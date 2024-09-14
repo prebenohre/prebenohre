@@ -1,17 +1,20 @@
-<h1 id="heading" align="center"> Hey, I'm Preben! 👋</h1>
-I'm currently pursuing a bachelors degree in software engineering at Kristiania University College in Oslo. 👨‍💻
+<h1 id="heading" align="center">Hey, I'm Preben! 👋</h1>
+I'm currently pursuing a Bachelor's degree in Programming at Kristiania University College in Oslo, and I'm well into my third and final year. 👨🏻‍💻
 <br>
 <br>
-My journey in tech has been a thrilling ride, exploring web development with HTML, CSS, JavaScript, React and Node.js, diving into the world of database management with MySQL and MongoDB, and embracing object-oriented programming in Java and C#. I've found great interest in these subjects, and I'm eagerly looking forward to becoming a true ✨developer✨ once I complete my studies!
+During my studies, I’ve focused on web development, database management, OOP, software design, algorithms and data structures, C programming for Linux, and information security. Recently, we completed a semester project in "Agile Project Management," where I served as the SCRUM master 🤠. This project provided me with valuable experience in agile methodologies and team leadership. I’ve developed a strong interest in backend programming and full-stack web development, and I'm really looking forward to working as a ✨developer✨ after I graduate.
 <br>
 <br>
-When I'm not immersed in code, you'll find me crafting some soothing lofi hip-hop beats, experimenting with homemade wine production, or indulging in a bit of gaming. 🎸🍷👾
+Outside of my studies, I also serve as the Head of the Student Representative Committee for the Department of Economics, Innovation, and Technology at the Kristiania Student Union. Here, my fellow students and I work together to enhance academic opportunities and safeguard the rights and needs of our peers! 👨🏻‍⚖️
 <br>
 <br>
-Feel free to reach out if you'd like to collaborate or just chat tech – I'm always up for a good coding conversation! 🚀
+I'm also the Events Coordinator for the BIOS student association. In this role, I’m involved in communication with companies as well as coordinating and executing events. This gives me the chance to use my organizational skills while having fun with my fellow students 🥳.
 <br>
 <br>
-<div id="badges" align="Center" >
+When I'm not deep in IntelliJ or planning events, I enjoy producing music, making homemade wine, or unwinding with some gaming. 🎸🍷👾
+<br>
+<br>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prebenohre/">
     <img height="33rem" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,6 +22,7 @@ Feel free to reach out if you'd like to collaborate or just chat tech – I'm al
     <img height="33rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
 
 
 <!--
