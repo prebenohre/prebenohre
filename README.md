@@ -8,7 +8,7 @@ During my studies, I have specialized in backend programming, web development an
 Alongside my studies, I am also the head of the Trust Committee at the Department of Economics, Innovation, and Technology within the Student Union at Kristiania. Here, my fellow students and I work together to improve academic opportunities and safeguard the rights and needs of our peers! 👨🏻‍⚖️
 <br>
 <br>
-When I’m not buried in Rider, I enjoy producing music, making homemade wine, or unwinding with some gaming. 🎸🍷👾
+When my nose is not buried in Rider, I enjoy producing music, making homemade wine, or unwinding with some gaming. 🎸🍷👾
 <br>
 <br>
 Feel free to reach out if you or your company have projects that might be a good fit for me, are looking to recruit, or if you just want to chat about technology—I’m always up for a great coding conversation! 🚀🤓
