@@ -1,17 +1,17 @@
 <h1 id="heading" align="center">Hey, I'm Preben! 👋</h1>
-I'm currently pursuing a Bachelor's degree in Programming at Kristiania University College in Oslo, and I'm well into my third and final year. 👨🏻‍💻
+I'm studying for a Bachelor's degree in Programming at Kristiania University College in Oslo, and I'm currently in the final stretch of my third and last year. 👨🏼‍🎓
 <br>
 <br>
-During my studies, I’ve focused on web development, database management, OOP, software design, algorithms and data structures, C programming for Linux, and information security. Recently, we completed a semester project in "Agile Project Management," where I served as the SCRUM master 🤠. This project provided me with valuable experience in agile methodologies and team leadership. I’ve developed a strong interest in backend programming and full-stack web development, and I'm really looking forward to working as a ✨d e v e l o p e r✨ after I graduate.
+During my studies, I have specialized in backend programming, web development and API design, database management, OOP, software design, algorithms and data structures, C programming, DevOps, and microservices. I have developed a strong interest in backend development and system architecture, and I’m really looking forward to working as a ✨ b a c k e n d d e v e l o p e r ✨ once I complete my studies.
 <br>
 <br>
-Outside of my studies, I also serve as the Head of the Student Representative Committee for the Department of Economics, Innovation, and Technology at the Kristiania Student Union. Here, my fellow students and I work together to enhance academic opportunities and safeguard the rights and needs of our peers! 👨🏻‍⚖️
+Alongside my studies, I am also the head of the Trust Committee at the Department of Economics, Innovation, and Technology within the Student Union at Kristiania. Here, my fellow students and I work together to improve academic opportunities and safeguard the rights and needs of our peers! 👨🏻‍⚖️
 <br>
 <br>
-I'm also the Events Coordinator for the BIOS student association. In this role, I’m involved in communication with companies as well as coordinating and executing events. This gives me the chance to use my organizational skills while having fun with my fellow students 🥳.
+When I’m not buried in Rider, I enjoy producing music, making homemade wine, or unwinding with some gaming. 🎸🍷👾
 <br>
 <br>
-When I'm not deep in IntelliJ or planning events, I enjoy producing music, making homemade wine, or unwinding with some gaming. 🎸🍷👾
+Feel free to reach out if you or your company have projects that might be a good fit for me, are looking to recruit, or if you just want to chat about technology—I’m always up for a great coding conversation! 🚀🤓
 <br>
 <br>
 <div id="badges" align="center">
