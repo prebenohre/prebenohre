@@ -2,7 +2,7 @@
 I'm studying for a Bachelor's degree in Programming at Kristiania University College in Oslo, and I'm currently in the final stretch of my third and last year. 👨🏼‍🎓
 <br>
 <br>
-During my studies, I have specialized in backend programming, web development and API design, database management, OOP, software design, algorithms and data structures, C programming, DevOps, and microservices. I have developed a strong interest in backend development and system architecture, and I’m really looking forward to working as a ✨ b a c k e n d d e v e l o p e r ✨ once I complete my studies.
+During my studies, I have specialized in backend programming, web development and API design, database management, OOP, software design, algorithms and data structures, C programming, DevOps, and microservices. I have developed a strong interest in backend development and system architecture, and I’m really looking forward to working as a ✨ b a c k e n d   d e v e l o p e r ✨ once I complete my studies.
 <br>
 <br>
 Alongside my studies, I am also the head of the Trust Committee at the Department of Economics, Innovation, and Technology within the Student Union at Kristiania. Here, my fellow students and I work together to improve academic opportunities and safeguard the rights and needs of our peers! 👨🏻‍⚖️
